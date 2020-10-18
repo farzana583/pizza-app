@@ -187,7 +187,7 @@ $(document).ready(function(){
   
         $("#finallmessage").append(person+", We have recieved your order and it will be delivered to you at "+location+ ". Prepare sh. "+deliceryamount);
         $("#totalbill").hide();
-        $("#finallmessage").slideDown(1200);
+        $("#finallmessage").slideDown(950);
       }
       else {
         alert("Please fill in the details for delivery!");
