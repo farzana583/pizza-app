@@ -276,3 +276,35 @@ body{
     background-image: url("/background.jpg");
 }
 }
+.locs{
+    display: flex;
+    text-align: center;
+    justify-content: space-evenly;
+}
+.time{
+    display: flex;
+    text-align: center;
+    justify-content: space-evenly;
+}
+.contact{
+    text-align: center;
+    margin-left: 0px;
+}
+.naz h1{
+    text-align: center;
+    font-size:20px;
+}
+.farz{
+    text-align:center;
+}
+.me{
+    display: flex;
+    justify-content: center;
+
+}
+.far{
+    padding: 50px;
+    text-align: left;
+}
+
+* {box-sizing:border-box}
