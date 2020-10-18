@@ -8,7 +8,7 @@
 * on github click the link and you ready to go.
 ### Git Hub Live Link
 *click to view my pizza app*
-[https://github.com/farzana583/pizza-app](https://github.com/farzana583/pizza-app)
+[https://farzana583.github.io/pizza-app/](https://farzana583.github.io/pizza-app/)
 ## Copyright and License
 MIT License
 Copyright (c) [2020] [Farzana Isack]
